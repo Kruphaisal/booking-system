@@ -1,3 +1,3 @@
 export default {
-    aprUrl: "https://script.google.com/macros/s/AKfycbxVUinvWzsp178oiD7ldBJFlc3J-Bke1377PsJ9uuBIbrKgI-TlxuO0xtzmqSV3af0b/exec"
+    aprUrl: "https://script.google.com/macros/s/AKfycbzxty25fSua1SX2D_yeX0DlEw2KPzurqmLYJeGSEqbRFx05rlBMos4SL87NpCEX4uPr/exec"
 }
